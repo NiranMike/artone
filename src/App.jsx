@@ -1,5 +1,6 @@
 /* eslint-disable react/no-unknown-property */
 
+import Design from "./components/Design"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import OurWork from "./components/OurWork"
@@ -17,6 +18,7 @@ function App() {
       </div>
       <OurWork />
       <Welcome />
+      <Design />
     </div>
   )
 }
