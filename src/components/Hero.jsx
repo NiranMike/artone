@@ -21,8 +21,8 @@ const Hero = () => {
                 <div className="flex flex-col relative">
                     <p className="text-[#C1C1C1] text-end text-balance text-[1.5rem] font-medium">Artone is a design agency that offers world-class, unlimited design for a flat monthly price.</p>
                     <div className="flex gap-3 justify-end mt-5">
-                        <button className="py-3 px-8 text-[1.7rem] border-t-[0.005px] border-[#C1C1C1] font-medium rounded-2xl bg-[#FFEE00]">See plans</button>
-                        <button className="py-3 px-8 text-[1.7rem] font-medium text-[#C1C1C1] rounded-2xl border border-[#353535] bg-[#0C0C0C]">2 spots left</button>
+                        <button className="py-2 px-8 text-[1.7rem] border-t-[0.005px] border-[#C1C1C1] font-medium rounded-2xl bg-[#FFEE00]">See plans</button>
+                        <button className="py-2 px-8 text-[1.7rem] font-medium text-[#C1C1C1] rounded-2xl border border-[#353535] bg-[#0C0C0C]">2 spots left</button>
                     </div>
                 </div>
             </div>
