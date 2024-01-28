@@ -3,6 +3,7 @@
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import OurWork from "./components/OurWork"
+import Welcome from "./components/Welcome"
 
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
         
       </div>
       <OurWork />
-      
+      <Welcome />
     </div>
   )
 }
