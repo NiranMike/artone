@@ -105,6 +105,17 @@ const Design = () => {
                             </div>
                         </div>
                     </div>
+                    <div className="py-[30px] flex flex-col justify-end w-[40%] relative  px-[40px] border border-[#1b1b1b] bg-gradient-to-br from-[#020202] via-[#101010] to-[#101010] rounded-[1.5rem]">
+                        <img className="absolute object-cover inset-0" src="https://framerusercontent.com/images/k9R9cmxWAn0EsB8KznXX6VUxOk.png?scale-down-to=1024" alt="" />
+                        <button className='text-black font-semibold text-[3rem] py-[0.9rem] translate-x-[7.1rem] bg-[#FFEE00] w-[219px] -translate-y-[0.6rem] rounded-[2rem]'>Pause</button>
+                        <div className="flex items-center">
+                            <div>
+                                <p className="text-white text-[1.5rem] max-w-[340px] font-semibold">Design on your terms. Pause at any time</p>
+                                <p className="text-[#8C8C8C] max-w-[350px] text-[1.2rem]">No more requests for the time being? Just hit pause and resume your subscription at a future date.</p>
+                            </div>
+                            <img className="w-[100px]" src="https://framerusercontent.com/images/o9ozlqj5CP41cVPcxGehIyVnA.png" alt="" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
