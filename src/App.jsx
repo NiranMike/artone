@@ -6,6 +6,7 @@ import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import OurWork from "./components/OurWork"
 import Payroll from "./components/Payroll"
+import SolutionSection from "./components/SolutionSection"
 import Welcome from "./components/Welcome"
 
 
@@ -22,6 +23,7 @@ function App() {
       <Design />
       <DesignJourney />
       <Payroll />
+      <SolutionSection />
     </div>
   )
 }
