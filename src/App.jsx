@@ -2,6 +2,7 @@
 
 import Design from "./components/Design"
 import DesignJourney from "./components/DesignJourney"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import OurWork from "./components/OurWork"
@@ -28,6 +29,7 @@ function App() {
       <SolutionSection />
       <Pricing />
       <VideoSection />
+      <Footer />
     </div>
   )
 }
