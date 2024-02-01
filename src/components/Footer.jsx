@@ -34,7 +34,7 @@ const Footer = () => {
             <ul className="grid ">
                 <li className="text-base font-normal max-w-[250px] text-white">Made by Olaniran Micheal</li>
                 <li className="text-[#838383] font-normal text-[0.95rem] max-w-[250px]">razvan@artone.studio</li>
-                <li className="text-[#838383] font-normal text-[0.95rem] max-w-[250px]">Priivacy Policy</li>
+                <li className=" py-2 px-5 h-[50px] max-w-[170px] text-lg bg-[#090909] text-center border border-[#232323] text-white rounded-xl cursor-pointer">Follow on X</li>
             </ul>
         </div>
     </div>
